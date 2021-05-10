@@ -39,7 +39,7 @@
 <meta property="og:description" content="The last theme you&#39;ll ever need. Maybe." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://magnuspetersen.github.io/portfolio/tags/classification/" />
-<meta property="og:updated_time" content="2017-04-10T11:00:59-04:00" /><meta property="og:site_name" content="Magnus Petersen " />
+<meta property="og:updated_time" content="2021-03-02T00:00:00+00:00" /><meta property="og:site_name" content="Magnus Petersen " />
 <meta itemprop="name" content="Classification">
 <meta itemprop="description" content="The last theme you&#39;ll ever need. Maybe.">
 <meta name="twitter:card" content="summary"/>
@@ -177,13 +177,12 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Post</span>
     <h1 class="f3 near-black">
-      <a href="https://magnuspetersen.github.io/portfolio/post/chapter-2/" class="link black dim">
-        Local Conformal Autoencoder
+      <a href="https://magnuspetersen.github.io/portfolio/post/chapter-3/" class="link black dim">
+        ESG Company Score Evaluation 
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      This is an implementation of the LOca, local conformal autoencoder, model as described in the PNAS Paper &ldquo;Local conformal autoencoder for standardized data coordinates&rdquo; by Erez Peterfreund et al. [1] More specifically it is the implementation of their toy model in the section 6.2/6.3 as it highlights the abilities and the use cases of the model well.
-I have no affiliation with the authors, I just liked the paper and wanted to share my implementation.
+      This is my attempt of estimating ESG scores, a scoring system for evaluating environment, social and governance impact of an entity. The scoring is done using a zero shot multi label categorization using a pretrained S-BERT Model. The model uses keywords corresponding to E, S and G in order to categorize articles as belonging to the three categories. If the article is classified as belonging to one or more of the categories it is assigned a score based on the relative positivity of the article, which is in turn calculated by comparing the score of the label &ldquo;negative&rdquo; and &ldquo;positive&rdquo;.
     </div>
   </div>
 </div>

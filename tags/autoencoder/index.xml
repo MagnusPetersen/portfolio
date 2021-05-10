@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoencoder on Magnus Petersen </title>
+    <link>https://magnuspetersen.github.io/portfolio/tags/autoencoder/</link>
+    <description>Recent content in Autoencoder on Magnus Petersen </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://magnuspetersen.github.io/portfolio/tags/autoencoder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local Conformal Autoencoder</title>
+      <link>https://magnuspetersen.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-2/</guid>
+      <description>This is an implementation of the LOca, local conformal autoencoder, model as described in the PNAS Paper &amp;ldquo;Local conformal autoencoder for standardized data coordinates&amp;rdquo; by Erez Peterfreund et al. [1] More specifically it is the implementation of their toy model in the section 6.2/6.3 as it highlights the abilities and the use cases of the model well.
+I have no affiliation with the authors, I just liked the paper and wanted to share my implementation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,32 +8,51 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://magnuspetersen.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Forum Recommendation Website</title>
+      <link>https://magnuspetersen.github.io/portfolio/post/chapter-5/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-5/</guid>
+      <description>Recomenddit Recomenddit is a natural langue processing-based search engine for subreddits, topic focused forums, on the site Reddit. A search query in the form of text one might find on the desired subreddit is compared to text from around 100.000 subreddits on the site. The website also allows for customised search parameters such as subreddit subscriber count and an adult content filter.     Purpose Reddit offers a wide range of interesting communities from mainstream forums featuring dog pictures to niche interests like flyfishing.</description>
+    </item>
+    
+    <item>
+      <title>Deep Q-Learning Recommender</title>
+      <link>https://magnuspetersen.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-4/</guid>
+      <description>Interest Recommender The aim of this project was to build a recommender system that is based on a DQN. Since I do not have access to a live webservice building an environment was a necessity. While this might not be realistic it still serves as a great exercise for me to learn the way reinforcement learning is used in recommender systems.
+Building an Environment: To model realistic customers, a British youth survey was selected which asked 836 British teenagers to score 31 interests from one to five.</description>
+    </item>
+    
+    <item>
       <title>ESG Company Score Evaluation </title>
       <link>https://magnuspetersen.github.io/portfolio/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://magnuspetersen.github.io/portfolio/post/chapter-3/</guid>
       <description>This is my attempt of estimating ESG scores, a scoring system for evaluating environment, social and governance impact of an entity. The scoring is done using a zero shot multi label categorization using a pretrained S-BERT Model. The model uses keywords corresponding to E, S and G in order to categorize articles as belonging to the three categories. If the article is classified as belonging to one or more of the categories it is assigned a score based on the relative positivity of the article, which is in turn calculated by comparing the score of the label &amp;ldquo;negative&amp;rdquo; and &amp;ldquo;positive&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Local Conformal Autoencoder</title>
-      <link>https://magnuspetersen.github.io/portfolio/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-2/</guid>
-      <description>This is an implementation of the LOca, local conformal autoencoder, model as described in the PNAS Paper &amp;ldquo;Local conformal autoencoder for standardized data coordinates&amp;rdquo; by Erez Peterfreund et al. [1] More specifically it is the implementation of their toy model in the section 6.2/6.3 as it highlights the abilities and the use cases of the model well.
-I have no affiliation with the authors, I just liked the paper and wanted to share my implementation.</description>
-    </item>
-    
-    <item>
       <title>Mechanism of Action Prediction</title>
       <link>https://magnuspetersen.github.io/portfolio/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://magnuspetersen.github.io/portfolio/post/chapter-1/</guid>
       <description>My Kaggle challenge notebooks for the &amp;ldquo;Mechanism of Action&amp;rdquo; contest. All my iterations and insights. This was my first Kaggle challenge, as such it is not fully optimized, as I wanted to get a feel for the competitions first.
 Challenge Outline The goal of the challenge is to use 100 cell viability features and 772 gene expression features to find the corresponding 206 target mechanisms. The features are the results from the L1000 and Prism assay respectively.</description>
+    </item>
+    
+    <item>
+      <title>Local Conformal Autoencoder</title>
+      <link>https://magnuspetersen.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-2/</guid>
+      <description>This is an implementation of the LOca, local conformal autoencoder, model as described in the PNAS Paper &amp;ldquo;Local conformal autoencoder for standardized data coordinates&amp;rdquo; by Erez Peterfreund et al. [1] More specifically it is the implementation of their toy model in the section 6.2/6.3 as it highlights the abilities and the use cases of the model well.
+I have no affiliation with the authors, I just liked the paper and wanted to share my implementation.</description>
     </item>
     
   </channel>

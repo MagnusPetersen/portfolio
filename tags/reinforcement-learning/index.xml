@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Magnus Petersen </title>
+    <link>https://magnuspetersen.github.io/portfolio/tags/reinforcement-learning/</link>
+    <description>Recent content in Reinforcement Learning on Magnus Petersen </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://magnuspetersen.github.io/portfolio/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Q-Learning Recommender</title>
+      <link>https://magnuspetersen.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://magnuspetersen.github.io/portfolio/post/chapter-4/</guid>
+      <description>Interest Recommender The aim of this project was to build a recommender system that is based on a DQN. Since I do not have access to a live webservice building an environment was a necessity. While this might not be realistic it still serves as a great exercise for me to learn the way reinforcement learning is used in recommender systems.
+Building an Environment: To model realistic customers, a British youth survey was selected which asked 836 British teenagers to score 31 interests from one to five.</description>
+    </item>
+    
+  </channel>
+</rss>
